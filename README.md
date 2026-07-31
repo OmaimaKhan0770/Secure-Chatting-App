@@ -167,7 +167,7 @@ This project was developed for **educational purposes** as part of an Informatio
 
 ## Author
 
-**Omaima Khan** &
+**Omaima Khan** 
 
 **Noor Ul Huda**
 
