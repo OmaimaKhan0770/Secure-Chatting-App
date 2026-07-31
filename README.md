@@ -29,7 +29,7 @@ The project also includes a **cryptographic performance dashboard**. DES, AES, a
 * **Password Hashing** for secure password storage
 * **Dashboard / Data Visualization** for performance analysis
 
-## 🏗️ Project Files
+## Project Files
 
 ```text
 Secure-Chatting-Application/
